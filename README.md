@@ -4,7 +4,7 @@
 
 * * *
 
-#技术栈
+### 技术栈
 
 vue+vuex
 
@@ -12,13 +12,13 @@ vue+vuex
 
 * * *
 
-#项目运行步骤：
+### 项目运行步骤：
 
 1.  npm install
 2.  npm run dev
 
 * * *
 
-#项目打包：
+### 项目打包：
 
 1.  npm run build
